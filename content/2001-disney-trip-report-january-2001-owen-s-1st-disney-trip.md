@@ -1,5 +1,5 @@
 ---
-title: "Disney Trip Report January 2001 Owen’s 1st Disney Trip!!"
+title: "Disney Trip Report January 2001 - Owen’s 1st Disney Trip!!"
 year: "2001"
 source_file: "2001 owen's 1st trip.doc"
 type: "trip"

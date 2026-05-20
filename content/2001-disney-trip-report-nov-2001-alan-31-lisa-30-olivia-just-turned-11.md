@@ -1,5 +1,5 @@
 ---
-title: "Disney Trip Report Nov. 2001 Alan: 31 Lisa: 30 Olivia: just turned 11 Owen: 2"
+title: "Disney Trip Report Nov. 2001"
 year: "2001"
 source_file: "Disney Trip Report Nov2001.doc"
 type: "trip"
